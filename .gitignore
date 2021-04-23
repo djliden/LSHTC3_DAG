@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# graphviz stuff
+*.gv
+*.gv.pdf
+*.pdf
+
+# data
+data/*
